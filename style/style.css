@@ -520,8 +520,7 @@ a {
 
 .newsletter {
   background-color: var(--color-accent);
-  background-image: url(./images/bg2decor-full.png);
-  /* background-image: url(../images/bg2decor-full.png); */
+  background-image: url(../images/bg2decor-full.png);
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
